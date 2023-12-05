@@ -1,5 +1,5 @@
 .container {
-  height: calc(10vh - 60px);
+  min-height: calc(10vh - 60px);
   width: 100%;
 }
 .wrapper {
