@@ -19,7 +19,7 @@ const Navbar = () => {
     <div className={classes.container}>
       <div className={classes.wrapper}>
         <h2 className={classes.left}>
-          <Link href="/">WebDevMania</Link>
+          <Link href="/">WebDep Keraphael</Link>
         </h2>
         <ul className={classes.right}>
           {loggedIn ? (
